@@ -1,4 +1,7 @@
 <?php 
 
-	echo "ça marche";
+	echo "ça marche le commit final du projet et pour le serveur git init --bare";
+	echo "ça marche le commit final du projet et pour le serveur git init --bare";
+	echo "ça marche le commit final du projet et pour le serveur git init --bare";
+	echo "ça marche le commit final du projet et pour le serveur git init --bare";
 ?>
